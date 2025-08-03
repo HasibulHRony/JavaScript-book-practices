@@ -65,4 +65,4 @@ if((variableX !== variableY) == true){
 
 
 
-console.log(9)
+console.log(45 > 97)
